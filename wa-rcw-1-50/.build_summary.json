@@ -1,0 +1,466 @@
+[
+  {
+    "id": "01",
+    "name": "GENERAL PROVISIONS",
+    "slug": "01-general-provisions",
+    "chapters_seen": 11,
+    "sections_seen": 264,
+    "bytes": 159630
+  },
+  {
+    "id": "02",
+    "name": "COURTS OF RECORD",
+    "slug": "02-courts-of-record",
+    "chapters_seen": 27,
+    "sections_seen": 970,
+    "bytes": 553393
+  },
+  {
+    "id": "03",
+    "name": "DISTRICT COURTS\u2014COURTS OF LIMITED JURISDICTION",
+    "slug": "03-district-courts-courts-of-limited-jurisdiction",
+    "chapters_seen": 15,
+    "sections_seen": 524,
+    "bytes": 185531
+  },
+  {
+    "id": "04",
+    "name": "CIVIL PROCEDURE",
+    "slug": "04-civil-procedure",
+    "chapters_seen": 29,
+    "sections_seen": 1114,
+    "bytes": 579017
+  },
+  {
+    "id": "05",
+    "name": "EVIDENCE",
+    "slug": "05-evidence",
+    "chapters_seen": 17,
+    "sections_seen": 246,
+    "bytes": 121709
+  },
+  {
+    "id": "06",
+    "name": "ENFORCEMENT OF JUDGMENTS",
+    "slug": "06-enforcement-of-judgments",
+    "chapters_seen": 15,
+    "sections_seen": 699,
+    "bytes": 380470
+  },
+  {
+    "id": "07",
+    "name": "SPECIAL PROCEEDINGS AND ACTIONS",
+    "slug": "07-special-proceedings-and-actions",
+    "chapters_seen": 43,
+    "sections_seen": 1858,
+    "bytes": 1248813
+  },
+  {
+    "id": "08",
+    "name": "EMINENT DOMAIN",
+    "slug": "08-eminent-domain",
+    "chapters_seen": 9,
+    "sections_seen": 427,
+    "bytes": 222284
+  },
+  {
+    "id": "09",
+    "name": "CRIMES AND PUNISHMENTS",
+    "slug": "09-crimes-and-punishments",
+    "chapters_seen": 48,
+    "sections_seen": 5258,
+    "bytes": 2110097
+  },
+  {
+    "id": "09A",
+    "name": "WASHINGTON CRIMINAL CODE",
+    "slug": "09A-washington-criminal-code",
+    "chapters_seen": 32,
+    "sections_seen": 1552,
+    "bytes": 746706
+  },
+  {
+    "id": "10",
+    "name": "CRIMINAL PROCEDURE",
+    "slug": "10-criminal-procedure",
+    "chapters_seen": 52,
+    "sections_seen": 1906,
+    "bytes": 938528
+  },
+  {
+    "id": "11",
+    "name": "PROBATE AND TRUST LAW",
+    "slug": "11-probate-and-trust-law",
+    "chapters_seen": 52,
+    "sections_seen": 3184,
+    "bytes": 1638126
+  },
+  {
+    "id": "12",
+    "name": "DISTRICT COURTS\u2014CIVIL PROCEDURE",
+    "slug": "12-district-courts-civil-procedure",
+    "chapters_seen": 8,
+    "sections_seen": 169,
+    "bytes": 80638
+  },
+  {
+    "id": "13",
+    "name": "JUVENILE COURTS AND JUVENILE OFFENDERS",
+    "slug": "13-juvenile-courts-and-juvenile-offenders",
+    "chapters_seen": 16,
+    "sections_seen": 1827,
+    "bytes": 1029062
+  },
+  {
+    "id": "14",
+    "name": "AERONAUTICS",
+    "slug": "14-aeronautics",
+    "chapters_seen": 7,
+    "sections_seen": 147,
+    "bytes": 130278
+  },
+  {
+    "id": "15",
+    "name": "AGRICULTURE AND MARKETING",
+    "slug": "15-agriculture-and-marketing",
+    "chapters_seen": 49,
+    "sections_seen": 2084,
+    "bytes": 1392347
+  },
+  {
+    "id": "16",
+    "name": "ANIMALS AND LIVESTOCK",
+    "slug": "16-animals-and-livestock",
+    "chapters_seen": 20,
+    "sections_seen": 828,
+    "bytes": 417547
+  },
+  {
+    "id": "17",
+    "name": "WEEDS, RODENTS, AND PESTS",
+    "slug": "17-weeds-rodents-and-pests",
+    "chapters_seen": 10,
+    "sections_seen": 395,
+    "bytes": 347813
+  },
+  {
+    "id": "18",
+    "name": "BUSINESSES AND PROFESSIONS",
+    "slug": "18-businesses-and-professions",
+    "chapters_seen": 113,
+    "sections_seen": 6606,
+    "bytes": 4191172
+  },
+  {
+    "id": "19",
+    "name": "BUSINESS REGULATIONS\u2014MISCELLANEOUS",
+    "slug": "19-business-regulations-miscellaneous",
+    "chapters_seen": 111,
+    "sections_seen": 3802,
+    "bytes": 2763454
+  },
+  {
+    "id": "20",
+    "name": "COMMISSION MERCHANTS\u2014AGRICULTURAL PRODUCTS",
+    "slug": "20-commission-merchants-agricultural-products",
+    "chapters_seen": 1,
+    "sections_seen": 153,
+    "bytes": 92467
+  },
+  {
+    "id": "21",
+    "name": "SECURITIES AND INVESTMENTS",
+    "slug": "21-securities-and-investments",
+    "chapters_seen": 4,
+    "sections_seen": 349,
+    "bytes": 244711
+  },
+  {
+    "id": "22",
+    "name": "WAREHOUSING AND DEPOSITS",
+    "slug": "22-warehousing-and-deposits",
+    "chapters_seen": 4,
+    "sections_seen": 274,
+    "bytes": 147788
+  },
+  {
+    "id": "23",
+    "name": "CORPORATIONS AND ASSOCIATIONS (PROFIT)",
+    "slug": "23-corporations-and-associations-profit",
+    "chapters_seen": 5,
+    "sections_seen": 651,
+    "bytes": 315443
+  },
+  {
+    "id": "23B",
+    "name": "WASHINGTON BUSINESS CORPORATION ACT",
+    "slug": "23B-washington-business-corporation-act",
+    "chapters_seen": 22,
+    "sections_seen": 772,
+    "bytes": 467065
+  },
+  {
+    "id": "24",
+    "name": "CORPORATIONS AND ASSOCIATIONS (NONPROFIT)",
+    "slug": "24-corporations-and-associations-nonprofit",
+    "chapters_seen": 13,
+    "sections_seen": 1158,
+    "bytes": 588890
+  },
+  {
+    "id": "25",
+    "name": "PARTNERSHIPS",
+    "slug": "25-partnerships",
+    "chapters_seen": 4,
+    "sections_seen": 836,
+    "bytes": 398886
+  },
+  {
+    "id": "26",
+    "name": "DOMESTIC RELATIONS",
+    "slug": "26-domestic-relations",
+    "chapters_seen": 26,
+    "sections_seen": 2384,
+    "bytes": 1350790
+  },
+  {
+    "id": "27",
+    "name": "LIBRARIES, MUSEUMS, AND HISTORICAL ACTIVITIES",
+    "slug": "27-libraries-museums-and-historical-activities",
+    "chapters_seen": 12,
+    "sections_seen": 350,
+    "bytes": 225064
+  },
+  {
+    "id": "28A",
+    "name": "COMMON SCHOOL PROVISIONS",
+    "slug": "28A-common-school-provisions",
+    "chapters_seen": 76,
+    "sections_seen": 6975,
+    "bytes": 3513679
+  },
+  {
+    "id": "28B",
+    "name": "HIGHER EDUCATION",
+    "slug": "28B-higher-education",
+    "chapters_seen": 54,
+    "sections_seen": 4352,
+    "bytes": 2121902
+  },
+  {
+    "id": "28C",
+    "name": "VOCATIONAL EDUCATION",
+    "slug": "28C-vocational-education",
+    "chapters_seen": 4,
+    "sections_seen": 242,
+    "bytes": 163757
+  },
+  {
+    "id": "29A",
+    "name": "ELECTIONS",
+    "slug": "29A-elections",
+    "chapters_seen": 22,
+    "sections_seen": 1926,
+    "bytes": 818146
+  },
+  {
+    "id": "29B",
+    "name": "CAMPAIGN DISCLOSURE AND CONTRIBUTION",
+    "slug": "29B-campaign-disclosure-and-contribution",
+    "chapters_seen": 12,
+    "sections_seen": 928,
+    "bytes": 351548
+  },
+  {
+    "id": "30A",
+    "name": "WASHINGTON COMMERCIAL BANK ACT",
+    "slug": "30A-washington-commercial-bank-act",
+    "chapters_seen": 18,
+    "sections_seen": 890,
+    "bytes": 439713
+  },
+  {
+    "id": "30B",
+    "name": "WASHINGTON TRUST INSTITUTIONS ACT",
+    "slug": "30B-washington-trust-institutions-act",
+    "chapters_seen": 14,
+    "sections_seen": 297,
+    "bytes": 232757
+  },
+  {
+    "id": "31",
+    "name": "MISCELLANEOUS LOAN AGENCIES",
+    "slug": "31-miscellaneous-loan-agencies",
+    "chapters_seen": 8,
+    "sections_seen": 566,
+    "bytes": 462609
+  },
+  {
+    "id": "32",
+    "name": "WASHINGTON SAVINGS BANK ACT",
+    "slug": "32-washington-savings-bank-act",
+    "chapters_seen": 14,
+    "sections_seen": 639,
+    "bytes": 371698
+  },
+  {
+    "id": "33",
+    "name": "WASHINGTON SAVINGS ASSOCIATION ACT",
+    "slug": "33-washington-savings-association-act",
+    "chapters_seen": 15,
+    "sections_seen": 406,
+    "bytes": 185079
+  },
+  {
+    "id": "34",
+    "name": "ADMINISTRATIVE LAW",
+    "slug": "34-administrative-law",
+    "chapters_seen": 3,
+    "sections_seen": 554,
+    "bytes": 266847
+  },
+  {
+    "id": "35",
+    "name": "CITIES AND TOWNS",
+    "slug": "35-cities-and-towns",
+    "chapters_seen": 91,
+    "sections_seen": 4176,
+    "bytes": 2532501
+  },
+  {
+    "id": "35A",
+    "name": "OPTIONAL MUNICIPAL CODE",
+    "slug": "35A-optional-municipal-code",
+    "chapters_seen": 57,
+    "sections_seen": 1170,
+    "bytes": 573841
+  },
+  {
+    "id": "36",
+    "name": "COUNTIES",
+    "slug": "36-counties",
+    "chapters_seen": 97,
+    "sections_seen": 5527,
+    "bytes": 2950938
+  },
+  {
+    "id": "37",
+    "name": "FEDERAL AREAS\u2014INDIANS",
+    "slug": "37-federal-areas-indians",
+    "chapters_seen": 4,
+    "sections_seen": 90,
+    "bytes": 45115
+  },
+  {
+    "id": "38",
+    "name": "MILITIA AND MILITARY AFFAIRS",
+    "slug": "38-militia-and-military-affairs",
+    "chapters_seen": 18,
+    "sections_seen": 641,
+    "bytes": 495944
+  },
+  {
+    "id": "39",
+    "name": "PUBLIC CONTRACTS AND INDEBTEDNESS",
+    "slug": "39-public-contracts-and-indebtedness",
+    "chapters_seen": 56,
+    "sections_seen": 1956,
+    "bytes": 1253738
+  },
+  {
+    "id": "40",
+    "name": "PUBLIC DOCUMENTS, RECORDS, AND PUBLICATIONS",
+    "slug": "40-public-documents-records-and-publications",
+    "chapters_seen": 9,
+    "sections_seen": 184,
+    "bytes": 105450
+  },
+  {
+    "id": "41",
+    "name": "PUBLIC EMPLOYMENT, CIVIL SERVICE, AND PENSIONS",
+    "slug": "41-public-employment-civil-service-and-pensions",
+    "chapters_seen": 37,
+    "sections_seen": 6024,
+    "bytes": 3026810
+  },
+  {
+    "id": "42",
+    "name": "PUBLIC OFFICERS AND AGENCIES",
+    "slug": "42-public-officers-and-agencies",
+    "chapters_seen": 20,
+    "sections_seen": 2063,
+    "bytes": 966890
+  },
+  {
+    "id": "43",
+    "name": "STATE GOVERNMENT\u2014EXECUTIVE",
+    "slug": "43-state-government-executive",
+    "chapters_seen": 178,
+    "sections_seen": 12921,
+    "bytes": 6894036
+  },
+  {
+    "id": "44",
+    "name": "STATE GOVERNMENT\u2014LEGISLATIVE",
+    "slug": "44-state-government-legislative",
+    "chapters_seen": 14,
+    "sections_seen": 472,
+    "bytes": 544393
+  },
+  {
+    "id": "46",
+    "name": "MOTOR VEHICLES",
+    "slug": "46-motor-vehicles",
+    "chapters_seen": 54,
+    "sections_seen": 7958,
+    "bytes": 3549830
+  },
+  {
+    "id": "47",
+    "name": "PUBLIC HIGHWAYS AND TRANSPORTATION",
+    "slug": "47-public-highways-and-transportation",
+    "chapters_seen": 45,
+    "sections_seen": 3414,
+    "bytes": 1942449
+  },
+  {
+    "id": "48",
+    "name": "INSURANCE",
+    "slug": "48-insurance",
+    "chapters_seen": 101,
+    "sections_seen": 5365,
+    "bytes": 4051090
+  },
+  {
+    "id": "49",
+    "name": "LABOR REGULATIONS",
+    "slug": "49-labor-regulations",
+    "chapters_seen": 40,
+    "sections_seen": 1813,
+    "bytes": 1275147
+  },
+  {
+    "id": "50",
+    "name": "UNEMPLOYMENT COMPENSATION",
+    "slug": "50-unemployment-compensation",
+    "chapters_seen": 25,
+    "sections_seen": 1481,
+    "bytes": 883869
+  },
+  {
+    "id": "50A",
+    "name": "FAMILY AND MEDICAL LEAVE",
+    "slug": "50A-family-and-medical-leave",
+    "chapters_seen": 11,
+    "sections_seen": 396,
+    "bytes": 243359
+  },
+  {
+    "id": "50B",
+    "name": "LONG-TERM CARE",
+    "slug": "50B-long-term-care",
+    "chapters_seen": 1,
+    "sections_seen": 222,
+    "bytes": 139453
+  }
+]
